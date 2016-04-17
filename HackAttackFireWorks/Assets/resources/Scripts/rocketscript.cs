@@ -19,7 +19,6 @@ public class rocketscript : MonoBehaviour {
 		else{
 			powerup = (GameObject)Resources.Load ("Prefabs/PhoneBox", typeof(GameObject));
 		}
-
 	}
 	
 	// Update is called once per frame
